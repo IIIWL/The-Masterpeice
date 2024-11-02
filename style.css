@@ -1,0 +1,52 @@
+.Big{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.He{
+    text-align: center;
+    padding: 10px;
+    background-color: red;
+}
+section{
+    margin: 20px;
+
+}
+.project{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+}
+.dis{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    
+}
+h1,h2{
+    color: whitesmoke;
+}
+#id,#bio{
+    background-color: red;
+    padding: 15px;
+}
+.Wer{
+    background-color:red ;
+    text-align: center;
+    padding: 10px;
+}
+.H{
+color: whitesmoke;
+}
+.HW{
+    color: black;
+}
+.ER{
+    color: whitesmoke;
+}
+.U{
+    color: whitesmoke;
+}
